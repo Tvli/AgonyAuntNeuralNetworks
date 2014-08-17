@@ -1,0 +1,5 @@
+age,gender,occupation,slot1,slot2,slot3,slot4,slot5,slot6
+30,Male,Writer,0,0,0,1,0,0
+13,Female,Student,0,0,1,0,0,0
+20,Male,Freelancer,0,0,0,0,1,0
+45,Female,"Not hired",0,1,0,0,0,0
